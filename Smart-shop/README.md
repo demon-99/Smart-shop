@@ -1,5 +1,4 @@
-# Spring Boot Microservices
-This repository contains the latest source code of the spring-boot-microservices tutorial
+
 
 ## How to run the application using Docker
 
